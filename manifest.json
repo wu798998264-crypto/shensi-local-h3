@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
   "id": "local-h3",
-  "releaseTag": "v0.1.0",
+  "releaseTag": "v0.1.1",
   "platform": "win-x64",
   "runtime": {
     "version": "v0.1.0",
@@ -15,7 +15,7 @@
     ]
   },
   "archive": {
-    "url": "https://github.com/wu798998264-crypto/shensi-local-h3/releases/download/v0.1.0/local-h3-adapter-v0.1.0-win-x64.zip",
-    "sha256": "20b3644247855a06b9c2c8b0d6610ff364dcaf77c9fcbfe88207ea16fa886de9"
+    "url": "https://github.com/wu798998264-crypto/shensi-local-h3/releases/download/v0.1.1/local-h3-adapter-v0.1.1-win-x64.zip",
+    "sha256": "ca4515f1ed201317bd9c506f7550a9e12c0c0bedb7b176298fad39721a169840"
   }
 }

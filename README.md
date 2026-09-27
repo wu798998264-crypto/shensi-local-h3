@@ -6,7 +6,7 @@
 
 ## 版本
 
-- release tag: `v0.1.0`
+- release tag: `v0.1.1`
 - platform: `win-x64`
 - service: ComfyUI loopback `127.0.0.1:8188`
 - workflow: `runtime/workflow.json`
